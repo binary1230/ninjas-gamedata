@@ -1,3 +1,4 @@
+Pirates vs ninjas
 The game assets folder
 
 Here's what each of the directories are for:
